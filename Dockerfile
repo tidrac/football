@@ -1,4 +1,5 @@
-# Fix einfügen
+
+# 2. Fix Docker file
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
